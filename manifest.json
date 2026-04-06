@@ -1,0 +1,10 @@
+{
+  "id": "tab-rename",
+  "name": "Tab Colors and Rename",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Right-click a tab to rename the file.",
+  "author": "sachio222",
+  "authorUrl": "https://github.com/sachio222",
+  "isDesktopOnly": false
+}

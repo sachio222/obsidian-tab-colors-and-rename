@@ -1,0 +1,11 @@
+.workspace-tab-header.has-tab-color {
+  border-bottom: 3px solid var(--tab-color) !important;
+}
+
+.workspace-tab-header.has-tab-color.is-active {
+  border-bottom: 3px solid var(--tab-color) !important;
+}
+
+.workspace-tab-header.has-tab-color .workspace-tab-header-inner-title {
+  color: var(--tab-color);
+}
