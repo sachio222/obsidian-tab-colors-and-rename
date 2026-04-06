@@ -3,7 +3,7 @@
   "name": "Tab Colors and Rename",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Right-click a tab to rename the file.",
+  "description": "Right-click any tab to rename it or set a color. Works on all tab types.",
   "author": "sachio222",
   "authorUrl": "https://github.com/sachio222",
   "isDesktopOnly": false
